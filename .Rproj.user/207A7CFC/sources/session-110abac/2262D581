@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/tweetGPT/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "712107641",
+    "hash": "860451663",
     "contents": "",
     "dirty": false,
     "created": 1680555506525.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "406,402",
-        "scrollLine": "386",
-        "last_setup_crc32": "78c69f4eb42e7e5c"
+        "cursorPosition": "60,214",
+        "scrollLine": "41",
+        "last_setup_crc32": ""
     },
     "folds": "",
-    "lastKnownWriteTime": 1680680468,
+    "lastKnownWriteTime": 1680693237,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1680680468732,
+    "last_content_update": 1680693237946,
     "read_only": false,
     "read_only_alternatives": []
 }
