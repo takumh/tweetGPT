@@ -54,6 +54,8 @@ data("stop_words")
    bind_rows(data_frame(word = custom_stop_words))
 ```
 
+![](tweet.webp)
+
 # Introduction
 
 ## Background and Motivation
@@ -64,7 +66,7 @@ It is against this backdrop that I undertook this project to analyze how twitter
 
 # About the Data
 
-The data for this project was obtained from Kaggle. It is a collection of tweets with the hashtag #chatgpt between December 2022 and April 2023, containing discussions about the ChatGPT language model, experiences with using the model and asking for help with use-related issues.
+The data for this project was obtained from Kaggle. It is a collection of tweets with the hashtag #chatgpt between December 2022 and April 2023, containing discussions about the ChatGPT language model, experiences with using the model and asking for help with use-related issues. It is important to note that the discussion about ChatGPT is extensive and is contained within and without hashtags other than #chatgpt, therefore this analysis, while useful, does not capture all there is about this Twitter discourse.
 
 # Methodology
 
