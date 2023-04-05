@@ -58,7 +58,7 @@ data("stop_words")
 
 ## Background and Motivation
 
-ChatGPT, the openAI language model has been a trending topic in recent months following the release of its latest version, and its successes in passing the bar, AP exams, Sommerlier exams and the SAT among others. <https://www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1?r=US&IR=T> . ChatGPT has been used to generate essays, song lyrics, emails and even CVs. Despite these positive attributes, ChatGPT along with other language models like Dall-E, have received mixed reactions from the public with concerns about security, copyright infringement, inaccuracies and potential to perpetuate biases and spread misinformation.
+ChatGPT, the openAI language model has been a trending topic in recent months following the release of its latest version, and its successes in passing the bar, AP exams, Sommerlier exams and the SAT among others. <https://www.businessinsider.com/list-here-are-the-exams-chatgpt-has-passed-so-far-2023-1?r=US&IR=T>. ChatGPT has been used to generate essays, song lyrics, emails and even CVs. Despite these positive attributes, ChatGPT along with other language models like Dall-E, have received mixed reactions from the public with concerns about security, copyright infringement, inaccuracies and potential to perpetuate biases and spread misinformation.
 
 It is against this backdrop that I undertook this project to analyze how twitter users are talking about ChatGPT.
 
