@@ -64,7 +64,7 @@ It is against this backdrop that I undertook this project to analyze how twitter
 
 # About the Data
 
-The data for this project was obtained from Kaggle. It is a collection of tweets with the hashtag #chatgpt between December 2022 and March 2023, containing discussions about the ChatGPT language model, experiences with using the model and asking for help with use-related issues.
+The data for this project was obtained from Kaggle. It is a collection of tweets with the hashtag #chatgpt between December 2022 and April 2023, containing discussions about the ChatGPT language model, experiences with using the model and asking for help with use-related issues.
 
 # Methodology
 
@@ -110,7 +110,7 @@ tweets_df %>%
 
 ```
 
-I also wanted to analyze the common words that showed up in the bios of the people who tweeted about ChatGPT. The wordcloud below illustrates the most common words that appeared, filtered to omit frequencies less than 1000.
+I also wanted to analyze the common words that showed up in the bios of the people who tweeted about ChatGPT. The wordcloud below illustrates the most common words that appeared, filtered to omit frequencies less than 1000. For this and other subsequent wordclouds, the following words were omitted since they are frequent but not important at analysing the sentiment of the discourse: "https", "t.co", "openai", "ai", "artificialintelligence", "http", "gpt", "gpt4", "nannannannannew", "t", "chatgpt", "amp"
 
 ### Bio wordcloud
 
@@ -404,7 +404,7 @@ tweet_date_graph
 
 # Conclusion
 
-The world is yet to truly understand the impact that advanced language models like ChatGPT will have on society in sectors such as education, art & design and publishing. A few things are clear: that this technology is here to stay and that it is only going to get better.  Conversations like these carried on social media sites between novices and experts, proponents and oponents and creators and cosumers give us a small insight in the way that the technology is being received, understood and used. 
+The world is yet to truly understand the impact that advanced language models like ChatGPT will have on society in sectors such as education, art & design and publishing. A few things are clear: that this technology is here to stay and that it is only going to get better.  Conversations like these carried on social media sites between novices and experts, proponents and oponents and creators and consumers give us a small insight in the way that the technology is being received, understood and used. 
 
 # Future work
 
